@@ -1,0 +1,6 @@
+Git Collaboration Experiment
+
+Name: Student Name
+USN: 1XX00XX000
+Section: 3rd Semester D
+Subject: Git and GitHub
