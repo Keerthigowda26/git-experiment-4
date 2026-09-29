@@ -1,6 +1,3 @@
-Git Collaboration Experiment
-
-Name: Student Name
-USN: 1XX00XX000
-Section: 3rd Semester D
-Subject: Git and GitHub
+Name: Rahul Kumar
+USN: 1AB23CS045
+Section: 3rd Semester B
